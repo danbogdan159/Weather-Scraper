@@ -27,3 +27,4 @@ print(type(userInput))
 userZip = data(userInput)
 userZip.retrieveData()
 # issue: zips with leading 0 do not work.
+# initialized git
